@@ -49,7 +49,7 @@ After each sprint or release, use the [Retrospective and Continuous Improvement]
 
 This documentation is a living resource. If you identify gaps, ambiguities, or opportunities for improvement:
 
-1. Create an issue using the "Add Content to Project Management Process Docs" template
+1. Create an issue using the **"Add Content to Project Management Process Docs"** template (`.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml`)
 2. Clearly describe the proposed change and its rationale
 3. Reference specific sections or documents that need updating
 4. Work with your Project Manager to validate and implement improvements
@@ -65,4 +65,4 @@ These documents are optimized for use with GitHub Copilot Spaces. To leverage AI
 
 ---
 
-*Last updated: 2026-01-13 | Maintained by: OctoAcme Project Management Team*
+*Maintained by: OctoAcme Project Management Team*
