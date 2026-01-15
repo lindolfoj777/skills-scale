@@ -25,7 +25,10 @@ Our project lifecycle follows five key phases:
 - **Project Managers (PM)**: Coordinate delivery, schedules, risks, and communications
 - **Product Managers (PdM)**: Define outcomes, prioritize backlog, and measure success
 - **Developers**: Implement features and collaborate on design and testability
-- **QA/Testing**: Validate quality and acceptance criteria
+- **QA/Testing Specialists**: Validate quality, execute test plans, and ensure acceptance criteria are met
+- **UX Designers**: Create user-centered experiences through research, design, and usability testing
+- **Technical Writers**: Create and maintain clear documentation for users and developers
+- **Release/Deployment Managers**: Orchestrate safe software delivery to production environments
 - **Stakeholders**: Provide inputs and approvals
 
 ### Communication & Quality
@@ -45,13 +48,16 @@ This directory contains comprehensive guides for each phase of the OctoAcme proj
 A concise introduction to OctoAcme's project management approach, including principles, core roles, key artifacts, lifecycle phases, and communication cadence. Start here for a high-level understanding.
 
 ### 👥 [Roles and Personas](octoacme-roles-and-personas.md)
-Detailed definitions of typical roles and responsibilities used across OctoAcme projects, including Developers, Product Managers, and Project Managers. Reference this to understand role expectations and communication patterns.
+Detailed definitions of typical roles and responsibilities used across OctoAcme projects, including Developers, Product Managers, Project Managers, QA/Testing Specialists, UX Designers, Technical Writers, and Release/Deployment Managers. Reference this to understand role expectations, communication patterns, and cross-role collaboration touchpoints.
 
 ### 🚀 [Project Initiation Guide](octoacme-project-initiation.md)
 Step-by-step guidance for validating new project ideas, aligning stakeholders, and creating a lightweight plan. Includes the Project One-pager template and initiation checklist.
 
 ### 📝 [Project Planning](octoacme-project-planning.md)
 How to turn approved initiatives into actionable plans and backlogs. Covers kickoff meetings, backlog creation, estimation, Definition of Done, risk management, and sprint planning.
+
+### 📋 [Templates & Checklists](octoacme-templates-and-checklists.md)
+Standardized templates and checklists for role handoffs, process workflows, status updates, and sprint planning. Includes handoff procedures between Developer→QA, QA→Release Manager, and other key transitions, plus templates for retrospectives, risk registers, and incident communication.
 
 ### ⚙️ [Execution & Tracking](octoacme-execution-and-tracking.md)
 Guidance for managing day-to-day execution, tracking progress, and maintaining quality. Includes team rhythm, PR workflows, quality standards, reporting metrics, and blocker escalation paths.
